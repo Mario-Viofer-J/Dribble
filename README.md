@@ -58,7 +58,6 @@ Publish the website in the LocalHost.
 </head>
 <body>
 
-  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
     <div class="container">
       <a class="navbar-brand fw-bold text-dark" href="#">DribbbleClone</a>
@@ -76,7 +75,6 @@ Publish the website in the LocalHost.
     </div>
   </nav>
 
-  <!-- Hero Section -->
   <section class="hero">
     <div class="container">
       <h1 class="display-4 fw-bold">Explore the best design work on the web</h1>
@@ -85,12 +83,9 @@ Publish the website in the LocalHost.
     </div>
   </section>
 
-  <!-- Gallery Section -->
-<!-- Gallery Section -->
 <section class="gallery">
   <div class="container">
     <div class="row g-4">
-      <!-- Card 1 -->
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <img src="img1.png" class="card-img-top" alt="design1" />
@@ -101,7 +96,6 @@ Publish the website in the LocalHost.
         </div>
       </div>
 
-      <!-- Card 2 -->
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <img src="img2.png" class="card-img-top" alt="design2" />
@@ -112,7 +106,6 @@ Publish the website in the LocalHost.
         </div>
       </div>
 
-      <!-- Card 3 -->
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <img src="img3.png" class="card-img-top" alt="design3" />
@@ -123,7 +116,6 @@ Publish the website in the LocalHost.
         </div>
       </div>
 
-      <!-- Card 4 -->
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <img src="img4.png" class="card-img-top" alt="design4" />
@@ -134,13 +126,11 @@ Publish the website in the LocalHost.
         </div>
       </div>
 
-      <!-- Add more cards as needed -->
     </div>
   </div>
 </section>
 
 
-  <!-- Footer -->
   <footer>
     <div class="container">
       <p class="mb-0">Designed by Mario Viofer</p>
